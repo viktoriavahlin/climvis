@@ -12,8 +12,10 @@ Make sure you have all dependencies installed. These are:
 - numpy
 - pandas
 - xarray
+- netcdf4
 - motionless
 - matplotlib
+- pytest
 
 Download the package and install it development mode. From the root directory,
 do:
